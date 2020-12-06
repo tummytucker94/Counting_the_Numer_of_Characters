@@ -3,6 +3,12 @@
 Programming Language: Python
 Goal: To get comfortable using basic sequential operations (input, process, output) in creating programs.
 
+Constraints:
+
+  --Be sure the output contains the original string.
+  --Use a single output statement to construct the output.
+  --Use a built-in function of the programming language to determine the length of the string.
+
 Understanding the Problem
   What are the features of this application (or program)?
     --Prompts for an input string
